@@ -30,6 +30,8 @@ I'm an ITMO University 3rd year student, developer and just a good person.
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGSDS&layout=compact&theme=dark"  width="400"/>
     <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MGSDS&theme=dark" height="120"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=MGSDS&count_private=true&show_icons=true&hide=contribs&theme=dark" height="120">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MGSDS&theme=dark" width="400"/>
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=MGSDS&count_private=true&show_icons=true&hide=contribs&theme=dark" width="400">
+    <br />
 </div> 
