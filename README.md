@@ -34,6 +34,6 @@ I'm an ITMO University 3rd year student, developer and just a good person.
     <br />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MGSDS&theme=dark" width="400"/>
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=MGSDS&count_private=true&show_icons=true&hide=contribs&theme=dark" width="400">
-    <br />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=MGSDS&count_private=true&show_icons=true&hide=contribs&theme=dark" width="400">
+    <br /> -->
 </div> 
