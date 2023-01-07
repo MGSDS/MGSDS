@@ -1,5 +1,5 @@
 ### 👋 Hi There,
-I'm an ITMO University 3rd year student, developer and just a good person.
+I'm an ITMO University 3rd year student. I am interested in machine learning and backend development.
 <div id="badges">
   <a href="https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B5%D0%B2%D1%82%D1%83%D1%88%D0%B5%D0%BD%D0%BA%D0%BE-7ba92b236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
