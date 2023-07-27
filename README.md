@@ -16,7 +16,7 @@ I'm an ITMO University 3rd year student. I am interested in machine learning and
 
 ### 🛠️ Languages And Tools:
 <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -31,9 +31,9 @@ I'm an ITMO University 3rd year student. I am interested in machine learning and
 ### ⏱ Some Stats : 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGSDS&layout=compact&theme=dark"  width="400"/>
-    <br />
+<!--     <br />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MGSDS&theme=dark" width="400"/>
-    <br />
+    <br /> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=MGSDS&count_private=true&show_icons=true&hide=contribs&theme=dark" width="400">
     <br /> -->
 </div> 
